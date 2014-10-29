@@ -1,0 +1,112 @@
+<DOCTYPE !html>
+<html>
+      <head>
+      <title>Practica 1</title>
+      </head>
+      <body background ="C:\Users\krlos\Desktop\semestre 4\programacion 4\practica1\toyota.jpg">
+	
+             <div>
+	  <h1>Audio y Video</h1>
+             </div>
+             <div>
+             <table>
+	  <tr>
+	       <th>ID</th>
+  	       <th>Artista</th>
+ 	       <th>Cancion</th>
+	       <th>Audio</th>
+	 </tr>
+	 <tr>
+	     <td>1</td>
+	     <td>Chicago</td>
+	     <td>if You Leave Me Now</td>
+	     <td><audio src="Chicago   If You Leave Me Now.mp3" controls>
+	          <p>Tu navegador no implementa el elemento audio<p></audio>
+	     <td><video src="VID-20140122-WA0001.mp4" controls> 
+	             <p>Tu navegador no implementa el elemento video<p></video>
+	</tr>
+	<tr>
+	     <td>2</td>
+	     <td>Chicago</td>
+	     <td>Hard To Say I'm Sorry</td>
+	      <td><audio src="Chicago Hard To Say I'm Sorry.mp3" controls>
+	          <p>Tu navegador no implementa el elemento audio<p></audio>
+	     <td><video src="VID-20140324-WA0002.mp4" controls> 
+	             <p>Tu navegador no implementa el elemento video<p></video>
+	</tr>
+	<tr>
+	     <td>3</td>
+	     <td>Colpdplay</td>
+	     <td>Yelow</td>
+	     <td><audio src="Coldplay   Yellow.mp3" controls>
+	          <p>Tu navegador no implementa el elemento audio<p></audio>
+	     <td><video src="VID-20140331-WA0001.mp4" controls> 
+	             <p>Tu navegador no implementa el elemento video<p></video>
+	</tr>
+	<tr>
+	     <td>4</td>
+	     <td>Creed</td>
+	     <td>My Sacrifice</td>
+	     <td><audio src="Creed   My Sacrifice.mp3" controls>
+	          <p>Tu navegador no implementa el elemento audio<p></audio>
+	     <td><video src="VID-20140515-WA0001.mp4" controls> 
+	             <p>Tu navegador no implementa el elemento video<p></video>
+	</tr>
+	<tr>
+	     <td>5</td>
+	     <td>Cyndi Lauper</td>
+	     <td>All through the nigth</td>
+	     <td><audio src="Cyndi Lauper All through the night.mp3" controls>
+	          <p>Tu navegador no implementa el elemento audio<p></audio>
+	     <td><video src="VID-20140828-WA0001.mp4" controls> 
+	             <p>Tu navegador no implementa el elemento video<p></video>
+	</tr>
+	<tr>
+	     <td>6</td>
+	     <td>ELO</td>
+	     <td>Last Train To London</td>
+	      <td><audio src="ELO Last Train To London.mp3" controls>
+	          <p>Tu navegador no implementa el elemento audio<p></audio>
+	     <td><video src="VID-20140313-WA0002.mp4" controls> 
+	             <p>Tu navegador no implementa el elemento video<p></video>
+	</tr>
+	<tr>
+	     <td>7</td>
+	     <td>Gilbert O'Sullivan</td>
+	     <td>Alone Again</td>
+	      <td><audio src="Gilbert O'Sullivan Alone Again.mp3" controls>
+	          <p>Tu navegador no implementa el elemento audio<p></audio>
+	     <td><video src="VID-20140313-WA0003.mp4" controls> 
+	             <p>Tu navegador no implementa el elemento video<p></video>
+	</tr>
+	<tr>
+	     <td>8</td>
+	     <td>Bee gees</td>
+	     <td>How Can You Mend A Broken Heart</td>
+	     <td><audio src="How Can You Mend A Broken Heart  Bee Gees.mp3" controls>
+	          <p>Tu navegador no implementa el elemento audio<p></audio>
+	     <td><video src="VID-20140313-WA0004.mp4" controls> 
+	             <p>Tu navegador no implementa el elemento video<p></video>
+	</tr>
+	<tr>
+	     <td>9</td>
+	     <td>panda</td>
+	     <td>Nuestra Afliccion</td>
+	      <td><audio src="panda Nuestra Afliccion.mp3" controls>
+	          <p>Tu navegador no implementa el elemento audio<p></audio>
+	     <td><video src="VID-20140313-WA0006.mp4" controls> 
+	             <p>Tu navegador no implementa el elemento video<p></video>
+	</tr>
+	<tr>
+	     <td>10</td>
+	     <td>Eric Clapton</td>
+	     <td>Tears In Heaven</td>
+	     <td><audio src="Eric Clapton Tears In Heaven.mp3" controls>
+	          <p>Tu navegador no implementa el elemento audio<p></audio>
+	     <td><video src="VID-20140325-WA0001.mp4" controls> 
+	             <p>Tu navegador no implementa el elemento video<p></video>
+	</tr>
+            </table>
+         </div>
+      </body>
+  </html>
